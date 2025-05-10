@@ -1,0 +1,20 @@
+<header>
+  <h1>Tejeshwar Reddy</h1>
+  <p>Web Developer | Designer | Innovator</p>
+</header>
+
+<nav>
+  <a href="tejeshwar.html">Home</a>
+  <a href="portfolio.html">Portfolio</a>
+  <a href="contact.html">Contact</a>
+</nav>
+
+<section>
+  <h2>Welcome</h2>
+  <p>Hi, I'm Tejeshwar — a passionate developer creating clean, functional, and visually engaging web experiences.</p>
+</section>
+
+<section>
+  <h2>About Me</h2>
+  <p>I specialize in frontend and full-stack development. With a strong foundation in HTML, CSS, JavaScript, and frameworks like React, I build websites and applications with purpose and performance.</p>
+</section>
