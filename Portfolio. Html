@@ -1,0 +1,18 @@
+<header>
+  <h1>My Projects</h1>
+</header>
+
+<section class="project">
+  <h3>Personal Portfolio Website</h3>
+  <p>A clean, responsive site to showcase my skills and projects. Built using HTML, CSS, and hosted on GitHub Pages.</p>
+</section>
+
+<section class="project">
+  <h3>Task Manager App</h3>
+  <p>A full-stack app for managing to-do lists. Built with Node.js, Express, and MongoDB. Includes user login and data persistence.</p>
+</section>
+
+<section class="project">
+  <h3>Weather App</h3>
+  <p>Displays real-time weather using OpenWeatherMap API. Built with vanilla JavaScript, HTML/CSS.</p>
+</section>
